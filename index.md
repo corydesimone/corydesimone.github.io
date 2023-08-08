@@ -19,11 +19,9 @@
 
 ### Data Visualization
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Slate Electric Vehicle Case Study](https://public.tableau.com/app/profile/cory.desimone/viz/SlateCaseStudy_16864877987420/MarketSummary)
+- [Gustovia Foods Strategy Dashboard](https://public.tableau.com/app/profile/cory.desimone/viz/GustoviaFoodsStrategyDashboard/GustoviaFoods)
+- [Raw By Bek Analysis](https://public.tableau.com/app/profile/cory.desimone/viz/RawByBekAnalysis_16856383083970/RawByBekAnalysis)
 
 ---
 
@@ -31,5 +29,3 @@
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
