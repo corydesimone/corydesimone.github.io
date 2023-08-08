@@ -24,6 +24,3 @@
 - [Raw By Bek Analysis](https://public.tableau.com/app/profile/cory.desimone/viz/RawByBekAnalysis_16856383083970/RawByBekAnalysis)
 
 ---
-
-
----
