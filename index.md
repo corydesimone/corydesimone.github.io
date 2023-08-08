@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Data Science 
 
-[Project 1 Title](/sample_page)
+[Preventing Vehicle Insurance Fraud with ML](https://deepnote.com/@tracked-e275/Investigating-and-Preventing-Vehicle-Insurance-Fraud-39ff504f-0c4f-4bcb-9b0d-eb99ef4b289f)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -17,7 +17,7 @@
 
 ---
 
-### Category Name 2
+### Data Visualization
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
