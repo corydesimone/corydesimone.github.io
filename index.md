@@ -22,7 +22,7 @@
 
 ---
 
-### Data Visualization
+### Data Visualisation
 
 - [Slate Electric Vehicle Case Study](https://public.tableau.com/app/profile/cory.desimone/viz/SlateCaseStudy_16864877987420/MarketSummary)
 - [Gustovia Foods Strategy Dashboard](https://public.tableau.com/app/profile/cory.desimone/viz/GustoviaFoodsStrategyDashboard/GustoviaFoods)
