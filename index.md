@@ -12,14 +12,7 @@
 - Identified fraud patterns, enabling tailored risk profiles for transactions and customer segments, strengthening risk management and preventing future fraud.
 
 - Achieved 80% accuracy with a Random Forest Classifier in predicting fraudulent claims, potentially saving $1.34 million over 12 months.
-
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+  
 ---
 
 ### Data Visualisation
